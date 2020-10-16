@@ -1,3 +1,14 @@
 h1 {
     color: #5A734F;
 }
+
+body {
+    background-image: url("../Assets/Pictures/background-flower.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+nav,
+#about-me {
+    background-color: #F2F2F2;
+}
