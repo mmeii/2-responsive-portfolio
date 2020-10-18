@@ -6,6 +6,7 @@ span {
 
 h1 {
     color: #5A734F;
+    padding-top: 15px;
 }
 
 body {
@@ -15,17 +16,15 @@ body {
 }
 
 nav,
-#about-me {
+#about-me, 
+#portfolio {
     background-color: #F2F2F2;
 }
 
-#about-me {
+#about-me,
+#portfolio {
     margin: 0 20px;
     padding: 0 30px;
-}
-
-#about-me h1 {
-    padding-top: 15px;
 }
 
 #about-me img {
@@ -33,10 +32,20 @@ nav,
     padding-right: 20px;
 }
 
+#portfolio img {
+    padding: 20px 0 20px 0;
+}
+
 p {
     color: #444;
 }
 
 .footer {
-    background-color: #D9AD5B;
+    background-color:#8C8B88;
 } 
+
+@media only screen and (min-width:992px) {
+    .img-float {
+        float: right;
+        }
+}
