@@ -17,12 +17,14 @@ body {
 
 nav,
 #about-me, 
-#portfolio {
+#portfolio,
+#contact {
     background-color: #F2F2F2;
 }
 
 #about-me,
-#portfolio {
+#portfolio,
+#contact {
     margin: 0 20px;
     padding: 0 30px;
 }
