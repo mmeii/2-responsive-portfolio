@@ -9,8 +9,9 @@ h1 {
 
 body {
     background-image: url("../Assets/Pictures/background-flower.jpg");
-    background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
 }
 
 nav,
@@ -34,14 +35,33 @@ nav,
 
 #portfolio img {
     padding: 20px 0 20px 0;
+    height: 350px;
+    width: 350px;
 }
 
 p {
     color: #444;
 }
 
-.footer {
+.footer-line {
+    background-color: #D9AD5B;
+    width: 100%;
+    height: 7px;
+    position: fixed;
+
+}
+
+footer {
+    display: flex;
     background-color:#8C8B88;
+    clear: both;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    margin-top: 50px;
+    color: #999;
+    bottom: 0;
 } 
 
 @media only screen and (min-width:992px) {
@@ -49,3 +69,4 @@ p {
         float: right;
         }
 }
+
