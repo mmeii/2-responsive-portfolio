@@ -1,18 +1,13 @@
 span {
     background-color: #5A734F;
+    font-family: 'Averia Serif Libre', cursive;
 }
 
 h1 {
     color: #5A734F;
     padding-top: 15px;
+    font-family: 'Averia Serif Libre', cursive;
 }
-
-/* body {
-    background-image: url("../Assets/Pictures/background-flower.jpg");
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-} */
 
 body {
     background-color: #faf3c0 !important;
@@ -39,8 +34,6 @@ nav,
 
 #portfolio img {
     padding: 20px 0 20px 0;
-    height: 350px;
-    width: 350px;
 }
 
 p {
