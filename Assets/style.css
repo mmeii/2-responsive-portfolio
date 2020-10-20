@@ -5,7 +5,6 @@ span {
 
 h1 {
     color: #5A734F;
-    padding-top: 15px;
     font-family: 'Averia Serif Libre', cursive;
 }
 
@@ -20,27 +19,30 @@ nav,
     background-color: #F2F2F2;
 }
 
-#about-me,
+/* #about-me,
 #portfolio,
 #contact {
     margin: 0 20px;
     padding: 0 30px;
-}
+} */
 
 #about-me img {
     float: left;
     padding-right: 20px;
 }
 
-#portfolio img {
-    padding: 20px 0 20px 0;
+.images {
+    padding-right: -5em;
 }
+/* #portfolio img {
+    padding: 20px 0 20px 0;
+} */
 
 p {
     color: #444;
 }
 
-footer {
+/* footer {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -54,7 +56,7 @@ footer {
     height: 40px;
 } */
 
-footer .footer-line {
+/* footer .footer-line {
     background-color: #5A734F;
     width: 100%;
     height: 5px;
@@ -70,7 +72,7 @@ footer p {
 
 .card-footer {
     background-color: #8C8B88 !important;
-}
+} */
 
 @media only screen and (min-width:992px) {
     .img-float {
