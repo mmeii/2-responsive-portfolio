@@ -10,6 +10,7 @@ As a student, this homework is to create 3 webpages using Bootstrap CSS Framewor
 3. On the main page, you can click on the links on top right to go to the other 2 pages (portfolio.html and contact.html) or can open them up separately. 
 
 ## Websites
+
 * Github: https://github.com/mmeii/2-responsive-portfolio
 * Deploayed: https://mmeii.github.io/2-responsive-portfolio/
 
@@ -39,7 +40,9 @@ The page layouts should look like the screenshots below on different screens
     ![400 screen for contact.html](Assets/Images/400-contact.png)
 
 ## Usage
+
 All images used on the websites are taken by me. Please site source if you use any.
+* Copyright &copy; 2020 Mengmei Tu
 
 
 ## License
