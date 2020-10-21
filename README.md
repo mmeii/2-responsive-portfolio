@@ -2,6 +2,8 @@
 
 As a student, this homework is to create 3 webpages using Bootstrap CSS Framework to create a mobile responsive portfolio. Bootstraps were used for navbar, grid system, responsive layout and responsive images.
 
+* Bonus - used bootstrap for making a sticky footer and sub-columns and sub-rows.
+
 
 ## Installation
 
