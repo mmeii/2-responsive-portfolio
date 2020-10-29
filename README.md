@@ -14,7 +14,7 @@ As a student, this homework is to create 3 webpages using Bootstrap CSS Framewor
 ## Websites
 
 * Github: https://github.com/mmeii/2-responsive-portfolio
-* Deploayed: https://mmeii.github.io/2-responsive-portfolio/
+* Deployed: https://mmeii.github.io/2-responsive-portfolio/
 
 ## Outcome
 
